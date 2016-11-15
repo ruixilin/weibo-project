@@ -15,8 +15,8 @@ sys.setdefaultencoding("utf8")
 code = 'utf8'
 
 session = requests.session()
-proxies = {'http':'http://10.131.16.74:8000', 'https': 'https://10.131.16.74:8000'}
-session.proxies = proxies
+#proxies = {'http':'http://', 'https': 'https://'}	# will not be shown on github
+#session.proxies = proxies
 
 '''
 	模拟登陆模块

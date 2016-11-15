@@ -1,6 +1,6 @@
 #!/bin/sh
 id='3956891841188784'
-comment='小宜已我们为您打造了与您优雅气质相符专属理财产品-宜定赢, 请点击: http://www.yirendai.com/finance/list/1'
+comment='test test test'
 if [ $# == 1 ];then
 	mid=$1
 fi

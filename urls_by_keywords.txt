@@ -1,0 +1,6 @@
+http://weibo.cn/search/mblog/?keyword=%E7%90%86%E8%B4%A2+p2p&sort=hot	理财 p2p
+http://weibo.cn/search/mblog/?keyword=%E7%90%86%E8%B4%A2&sort=hot	理财
+http://weibo.cn/search/mblog/?keyword=%E8%B4%A2%E7%BB%8F+%E6%8A%95%E8%B5%84&sort=hot	财经 投资
+http://weibo.cn/search/mblog/?keyword=%E8%82%A1%E7%A5%A8+%E9%95%BF%E7%BA%BF&sort=hot	股票 长线
+http://weibo.cn/search/mblog/?keyword=%E8%82%A1%E7%A5%A8+%E7%9F%AD%E7%BA%BF&sort=hot	股票 短线
+http://weibo.cn/search/mblog/?keyword=%E6%8A%95%E8%B5%84%E7%BB%93%E6%9E%84&sort=hot	投资结构
